@@ -1,0 +1,262 @@
+body {
+
+
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 0.9em;
+    color: black;
+
+}
+
+div#container {width:800px;background-color:lightgrey;padding:15px;margin: auto;}
+
+
+div#header1 { height: 150px;  padding:0px; margin: auto;}
+
+#header1-logo {
+
+	float: left;
+	width: 250px;
+	height: 150px;
+	
+}
+#header1-title {
+
+	float: left;
+	font-family: "Trebuchet MS", Arial, Helvetica, Sans-serif;
+	font-size: 20px;
+	text-align: left;
+        background-color: darkolivegreen; color: white;
+	width: 370px;
+	height: 150px;
+	
+}
+
+#header1-weather {
+
+	float: right;
+        background-color: white;
+        padding-top: 0px;
+        padding-right: 0px;
+	width: 180px;
+	height: 150px;
+	
+}
+div#header2 { 
+        height: 50px; 
+        background-color: white; 
+        color: black; 
+        padding: 5px;
+        margin-top: 15px; 
+
+
+}
+
+div#left-container {width:400px;float: left;background-color:lightgrey;padding:0px;margin: auto;}
+
+div#top-left {
+
+    float: left;
+    margin-top: 10px;
+    width: 400px;
+    height:200px;
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 0.9em;
+    color: olive;
+    background-color: white;
+    
+}
+
+
+
+
+div#latest-news {
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 20px;
+    margin: 0px;
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 1.0em;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    background-color: darkolivegreen;
+
+}
+
+
+div#middle-news {
+
+    padding: 0px;
+    height: 160px;
+    margin: 0px;
+    width: auto;
+    color: darkblue;
+
+}
+
+
+div#middle-whatson {
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 20px;
+    margin: 0px;
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 1.0em;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    background-color: darkolivegreen;
+
+
+}
+div#left {
+
+    float: left;
+    margin-top: 15px;
+    width: 400px;
+
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 0.8em;
+    color: olive;
+    background-color: lightgrey;
+    
+}
+div#right-container {width:385px;float: right;background-color:lightgrey;padding:0px;margin: auto;}
+
+div#top-right {
+
+    float: right;
+    margin-top: 10px;
+    width: 385px;
+    height: 200px;
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 0.8em;
+    color: olive;
+    background-color: white;
+    
+}
+div#right-image {
+
+    padding: 0px;
+    height: 200px;
+    margin: 0px;
+    background-color: darkblue;
+ 
+
+}
+div#right {
+
+    float: right;
+    margin-top: 15px;
+    width: 385px;
+    height: auto;
+    font-family: verdana, Arial, Helvetica, Sans-serif;
+    font-size: 0.8em;
+    color: olive;
+    background-color: lightgrey;
+    
+}
+
+div#footer {
+
+    clear: both;
+    background-color:lightgrey;
+    margin-top: 10px;
+
+}
+#footer-container {
+
+	clear: both;
+        height: 60px;
+	font-family: verdana, Arial, Helvetica, Sans-serif;
+	font-size: 0.7em;
+	color: white;
+        background-color: black;
+        
+	padding-left: 0px;
+	padding-top: 5px;
+	
+}
+
+div#hosting {
+
+    float: left;
+    width: 300px;
+    margin: 10px;
+    
+
+}
+
+div#footerc {
+	float: left;
+	text-align: center;		 
+	padding-top: 5px;
+        color: white;
+}
+
+div#footerr {
+	float: right;
+	text-align: right;
+        color: white;
+        margin: 10px;
+        width: 250px;		 
+	padding-top: 5px;
+}
+
+#footerr a {
+	color: white;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+#footerr a:hover {
+	color: white;
+     
+	text-decoration: underline;
+}
+
+#left a {
+	color: white;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+#left a:hover {
+	color: white;
+     
+	text-decoration: underline;
+}
+
+#left ul {
+	list-style-type: none;
+        padding-left: 10px;
+	padding-right: 10px;
+	color: darkblue;
+	line-height: 150%; 
+}
+
+#left li {
+	list-style-type: none;
+        padding-left: 15px;
+	color: darkblue;
+	line-height: 150%; 
+}
+
+#right a {
+	color: white;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+#right a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+#right li {
+	list-style-type: none;
+	color: darkblue;
+	line-height: 150%; 
+}
