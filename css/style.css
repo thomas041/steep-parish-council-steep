@@ -445,3 +445,14 @@ p.inline{
 .unorcontact {
   list-style-type: none;
 }
+
+#div-vac {
+	text-align: center;
+}
+
+#a-vac{
+	  	color:inherit;
+}
+#a-vac:hover{
+	color:blue
+}
